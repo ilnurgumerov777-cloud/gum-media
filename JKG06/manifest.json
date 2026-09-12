@@ -1,0 +1,11 @@
+{
+  "sku": "JKG06",
+  "images": [
+    {"name":"01.jpg","url":"https://raw.githubusercontent.com/ilnurgumerov777-cloud/gum-media/main/JKG06/01.jpg","sha256":"fb518213d5359a1d43d6bc2755fbe6b0cbdc16d6731b15fef853d444e2da0d0a"},
+    {"name":"02.jpg","url":"https://raw.githubusercontent.com/ilnurgumerov777-cloud/gum-media/main/JKG06/02.jpg","sha256":"26aef3a8959be5e8efdab95fbc8f48f5bbfca29e6f97ea839c4b2700f3eb5062"},
+    {"name":"03.jpg","url":"https://raw.githubusercontent.com/ilnurgumerov777-cloud/gum-media/main/JKG06/03.jpg","sha256":"0758890492b748a00d134fbe1b2b4879ee2581811734d0f9480fbbe249763600"},
+    {"name":"04.jpg","url":"https://raw.githubusercontent.com/ilnurgumerov777-cloud/gum-media/main/JKG06/04.jpg","sha256":"059b1ab41a2c92009fc89ab55d6c5887644b9e0453d61206460df40f276a631b"},
+    {"name":"05.jpg","url":"https://raw.githubusercontent.com/ilnurgumerov777-cloud/gum-media/main/JKG06/05.jpg","sha256":"2784f21f5708b74ae312ca128140c81d6b12a22bce71ecd1e388f6d103c685bb"},
+    {"name":"06.jpg","url":"https://raw.githubusercontent.com/ilnurgumerov777-cloud/gum-media/main/JKG06/06.jpg","sha256":"46daace35cff8d33f2e6cda9b96742b17115efd913bde8a7abb440b74b40d95b"}
+  ]
+}
