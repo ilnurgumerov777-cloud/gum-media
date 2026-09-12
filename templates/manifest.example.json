@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "sku": "REPLACE_WITH_SKU",
+  "images": [
+    {
+      "name": "01.jpg",
+      "url": "https://raw.githubusercontent.com/ilnurgumerov777-cloud/gum-media/main/REPLACE_WITH_SKU/01.jpg",
+      "sha256": "REPLACE_WITH_64_HEX_SHA256"
+    },
+    {
+      "name": "02.jpg",
+      "url": "https://raw.githubusercontent.com/ilnurgumerov777-cloud/gum-media/main/REPLACE_WITH_SKU/02.jpg",
+      "sha256": "REPLACE_WITH_64_HEX_SHA256"
+    }
+  ]
+}
