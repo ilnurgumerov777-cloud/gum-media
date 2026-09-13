@@ -1,0 +1,11 @@
+{
+  "sku": "HLY69",
+  "source": "chat-generated-file-e2e-test",
+  "images": [
+    {
+      "name": "01.jpg",
+      "url": "https://raw.githubusercontent.com/ilnurgumerov777-cloud/gum-media/main/system-tests/chat-ingress-20260913/01.jpg",
+      "sha256": "4357d423fdec8f361b52857e4e09474c8a2756b15367e6e9718f26d20a5f74f5"
+    }
+  ]
+}
