@@ -1,0 +1,13 @@
+{
+  "sku": "ES01 17ProMax/18ProMax",
+  "images": [
+    {
+      "name": "17promax.png",
+      "url": "https://raw.githubusercontent.com/ilnurgumerov777-cloud/gum-media/1b8ebfb11463d0555bfb5300ed453aa6ad08cfc8/es01-main-20261101/17promax.png",
+      "sha256": "2e7e56b1fe86a038fa14be6b55d2de1bad0f5651ca1686ce87e880029d28d726",
+      "bytes": 2584330,
+      "width": 1086,
+      "height": 1448
+    }
+  ]
+}
