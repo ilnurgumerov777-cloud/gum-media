@@ -1,0 +1,50 @@
+{
+  "sku": "апликатор  антишпион IPH 18 Pro Max",
+  "model": "iPhone 18 Pro Max",
+  "brand": "LITO",
+  "gallery_version": "lito-privacy18-20261117-v1",
+  "source_cover_sha256": "9648a19e5d5ce3b913c07cf3a827860ff0f83248a8385a2ca25155902b674ed0",
+  "cover_edit": "Only model caption iPhone 17 Pro replaced; physical product depiction unchanged",
+  "images": [
+    {
+      "name": "01_18-pro-max.jpg",
+      "sha256": "50f2b28c9996813e2c0cf893c6f3f41317935861109464af74b9be1d2ea4fb3c",
+      "url": "https://raw.githubusercontent.com/ilnurgumerov777-cloud/gum-media/main/lito-privacy18-20261117/images/50f2b28c9996813e2c0cf893c6f3f41317935861109464af74b9be1d2ea4fb3c.jpg"
+    },
+    {
+      "name": "02_lito_antispy.png",
+      "sha256": "cd7bf3bdb766e0e1ec82253e7c77d35a42cf2fcbc2354d04962ba884c2b52a2f",
+      "url": "https://raw.githubusercontent.com/ilnurgumerov777-cloud/gum-media/main/lito-privacy-gallery-20261023/images/cd7bf3bdb766e0e1ec82253e7c77d35a42cf2fcbc2354d04962ba884c2b52a2f.png"
+    },
+    {
+      "name": "03_lito_antispy.png",
+      "sha256": "bbc94e967ea4e84371bb023bf1831c6e9ac73a916267f2deac66e62fa944b71e",
+      "url": "https://raw.githubusercontent.com/ilnurgumerov777-cloud/gum-media/main/lito-privacy-gallery-20261023/images/bbc94e967ea4e84371bb023bf1831c6e9ac73a916267f2deac66e62fa944b71e.png"
+    },
+    {
+      "name": "04_lito_antispy.png",
+      "sha256": "ecf7eb83029640fccf69ded918e865ee05a71a43b3b6e461107f90d082837169",
+      "url": "https://raw.githubusercontent.com/ilnurgumerov777-cloud/gum-media/main/lito-privacy-gallery-20261023/images/ecf7eb83029640fccf69ded918e865ee05a71a43b3b6e461107f90d082837169.png"
+    },
+    {
+      "name": "05_lito_antispy.png",
+      "sha256": "a78644f14e585ec06b3c4c5930e16b23cba23f02842da56555b832244e072c09",
+      "url": "https://raw.githubusercontent.com/ilnurgumerov777-cloud/gum-media/main/lito-privacy-gallery-20261023/images/a78644f14e585ec06b3c4c5930e16b23cba23f02842da56555b832244e072c09.png"
+    },
+    {
+      "name": "06_lito_antispy.png",
+      "sha256": "77d77ac2a50b8b08046e6994f64373c15c886187410d5571b2b8a8adbbbabc69",
+      "url": "https://raw.githubusercontent.com/ilnurgumerov777-cloud/gum-media/main/lito-privacy-gallery-20261023/images/77d77ac2a50b8b08046e6994f64373c15c886187410d5571b2b8a8adbbbabc69.png"
+    },
+    {
+      "name": "07_lito_antispy.png",
+      "sha256": "6b656fb4a2e6ed4e3708bcf21a5ada10e12906e60b0b2e6742ce08b884023edf",
+      "url": "https://raw.githubusercontent.com/ilnurgumerov777-cloud/gum-media/main/lito-privacy-gallery-20261023/images/6b656fb4a2e6ed4e3708bcf21a5ada10e12906e60b0b2e6742ce08b884023edf.png"
+    },
+    {
+      "name": "08_lito_antispy.png",
+      "sha256": "ac0479a573193f5de0a7340c1b324676fad28954c028956abfdf7fc49fe27180",
+      "url": "https://raw.githubusercontent.com/ilnurgumerov777-cloud/gum-media/main/lito-privacy-gallery-20261023/images/ac0479a573193f5de0a7340c1b324676fad28954c028956abfdf7fc49fe27180.png"
+    }
+  ]
+}
